@@ -1,6 +1,6 @@
 pipeline {
     agent any  // Use any available agent
-<<<<<<< HEAD
+
     tools {
         gradle 'Gradle'
         jdk 'JDK'
